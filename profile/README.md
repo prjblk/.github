@@ -17,4 +17,4 @@ Our code snippets etc. from various projects live here.
 ## Social Media
 
 - [LinkedIn](https://www.linkedin.com/company/project-black-security-services)
-- [Twitter](https://twitter.com/projectblack)
+- [Twitter](https://twitter.com/project_blk)
