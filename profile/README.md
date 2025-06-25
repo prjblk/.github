@@ -1,6 +1,6 @@
 # Hi there👋
 
-Project Black is an Australian cybersecurity consultancy based in Sydney and Melbourne. Our mission is to make cybersecurity accessible and affordable for businesses of all sizes.
+Project Black is an Australian cybersecurity consultancy based in Sydney, Melbourne and Brisbane. Our mission is to make cybersecurity accessible and affordable for businesses of all sizes.
 
 Our code snippets etc. from various projects live here.
 
